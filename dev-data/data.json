@@ -16,7 +16,7 @@
     "image": "🧀",
     "from": "Portugal",
     "nutrients": "Vitamin A, Calcium",
-    "quantity": "250g",
+    "quantity": "250g 🧀",
     "price": "5.00",
     "organic": false,
     "description": "Creamy and distinct in flavor, goat cheese is a dairy product enjoyed around the world. Goat cheese comes in a wide variety of flavors and textures, from soft and spreadable fresh cheese to salty, crumbly aged cheese. Although it’s made using the same coagulation and separation process as cheese made from cow’s milk, goat cheese differs in nutrient content."
@@ -40,7 +40,7 @@
     "nutrients": "Vitamin A, Vitamin K",
     "quantity": "20 🥕",
     "price": "3.00",
-    "organic": true,
+    "organic": false,
     "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
   },
   {
